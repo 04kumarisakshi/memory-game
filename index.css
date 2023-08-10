@@ -23,4 +23,5 @@ body{
   background: linear-gradient(rgb(137, 211, 235),rgb(119, 97, 220));
     width: 5000px;
     height: 1000px;
+    overflow: hidden;
 }
